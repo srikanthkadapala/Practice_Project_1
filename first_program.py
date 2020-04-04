@@ -7,3 +7,5 @@ second line modified
 4th added
 
 5th line
+
+6th line
