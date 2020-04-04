@@ -1,2 +1,3 @@
-import  pkg1.module1
-('hellow world')
+first line
+second line
+3rd line
